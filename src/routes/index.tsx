@@ -75,11 +75,6 @@ function Home() {
             </ul>
           </nav>
 
-          <div className="hidden md:flex items-center gap-3 text-xs tracking-[0.28em]">
-            <span className="text-muted-foreground">EN</span>
-            <span className="text-muted-foreground/50">|</span>
-            <span>ES</span>
-          </div>
 
           <a
             href="#contacto"
