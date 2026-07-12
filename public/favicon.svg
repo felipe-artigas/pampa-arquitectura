@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="8" fill="#0F0F0E"/>
+  <!-- Architectural monogram: geometric P with horizon line -->
+  <g stroke="#F2EFEA" stroke-width="3" stroke-linecap="square">
+    <path d="M20 46 V18 H38 A8 8 0 0 1 38 34 H20"/>
+    <line x1="14" y1="52" x2="50" y2="52" stroke-width="2"/>
+  </g>
+</svg>
